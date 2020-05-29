@@ -1,0 +1,2 @@
+# Reproducibility Archive
+This repository contains code to reproduce the figures in Haslbeck, J.<sup>&#11089;</sup>, Ryan, O. <sup>&#11089;</sup>, & Dablander, F.<sup>&#11089;</sup> ([2020](https://psyarxiv.com/3nxu9)). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores.
